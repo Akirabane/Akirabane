@@ -1,8 +1,5 @@
 ### Joshua -- Akirabane [Mon CV en ligne][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## Je suis un développeur débutant, passioné d'informatique, réseau et de nouvelles technologies !
 
 - 🔭 Je porte mon intérêt sur des technologies web chaque jours !
@@ -14,7 +11,7 @@
 ### Me contacter ?
 
 [<img align="left" alt="http://193.168.146.197/cv" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mon LinkedIn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mon LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Mes outils et langages souvent utilisés :
