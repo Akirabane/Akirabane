@@ -37,12 +37,10 @@
 
 ---
 
-<details>
   <summary>:zap: Mes stats sur GitHub</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="[![Mes stats github !](https://github-readme-stats.vercel.app/api?username=Akirabane)](https://github.com/Akirabane/github-readme-stats)" />
 
-</details>
 
 [website]: http://193.168.146.197/cv
 [linkedin]: https://linkedin.com/in/JoshuaBENON
