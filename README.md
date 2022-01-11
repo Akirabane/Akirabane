@@ -1,6 +1,6 @@
 ### Joshua -- Akirabane [Mon CV en ligne][website] 👋 
 
-## Je suis un développeur débutant, passioné d'informatique, réseau et de nouvelles technologies !
+## Je suis un développeur débutant, passioné d'informatique, de réseau ainsi que de nouvelles technologies !
 
 - 🔭 Je porte mon intérêt sur des technologies web chaque jours !
 - 🌱 Je suis un fan de Java, JavaScript et PHP 🤣
