@@ -1,48 +1,48 @@
-### Joshua -- Akirabane [Mon CV en ligne][website] 👋 
+<p align="center">
+  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60670940?v=4">
+</p>
 
-## Je suis un développeur débutant, passioné d'informatique, réseau et de nouvelles technologies !
+<h1 align="center">Hey ! I'm <a href="https://github.com/BliTz037">BliTz037</a>👋</h1>
+</br>
 
-- 🔭 Je porte mon intérêt sur des technologies web chaque jours !
-- 🌱 Je suis un fan de Java, JavaScript et PHP 🤣
-- 👯 J'aimerais en apprendre plus sur le travail en collaboration / team.
-- 🥅 Mes buts de 2022 : Maîtriser NodeJS, et les API Rest.
-- ⚡ Mon hobbi ? Le kendo, et conduire !
+<p>BliTz is a developper, who studies in a big school named Epitech from Paris.</p>
+<p>But he is also an A.S.T.E.K who likes to help first year epitech students to learn the C language</p>
 
-### Me contacter ?
+<h2>About me</h2>
 
-[<img align="left" alt="http://193.168.146.197/cv" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mon LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+- 👨‍🎓 Third year student at Epitech
+- 👨‍🏫🔴 A.S.T.E.K
+- 🍊 I likes orange
+- 🚂 I love Thomas The Tank Engine
+- 🤫 Fun fact: My favorite driver in F1 is Lewis Hamilton
 
-### Mes outils et langages souvent utilisés :
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3>Languages</h3>
+<a href="#"> <img width="32px" src="https://lh3.googleusercontent.com/1NTw-mJ9bTiBiWfJ3_i22prvc3A7xvDNs4mmXSM76bqWT0-kTJ6LYDfIdgB_lWDPH_4"> </a>
+<a href="#"> <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> </a>
+<a href="#"> <img width="64px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"> </a>
+<a href="#"> <img width="32px" src="https://www.developpez.net/forums/attachments/p294178d1/a/a/a"> </a>
+<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> </a>
+<a href="#"> <img width="32px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png"> </a>
+<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </a>
+<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Antu_arduino-icon-small.svg/1200px-Antu_arduino-icon-small.svg.png"> </a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<h3>Other</h3>
+<a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
+<a href="#"> <img width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> </a>
+<a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
+<a href="#"> <img width="42px" src="https://www.logigroup.com/images/modules/react.gif"> </a>
+<a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
+<a href="#"> <img width="52px" src="https://zohowebstatic.com/sites/default/files/ogimage/zoho-logo.png"> </a>
+<a href="#"> <img width="32px" src="https://seeklogo.com/images/D/dialogflow-logo-534FF34238-seeklogo.com.png"> </a>
 
----
+<h3>Cloud-Computing</h3>
+<a href="#"> <img width="32px" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4"> </a>
+<a href="#"> <img width="32px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"> </a>
 
-<details>
-  <summary>:zap: Mes stats sur GitHub</summary>
+<h2>Github stats</h2>
+<div align="center">
 
-  <img align="left" alt="Akirabane's GitHub Stats" src="![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Akirabane&show_icons=true&theme=radical)" />
-
-</details>
-
-[website]: http://193.168.146.197/cv
-[linkedin]: https://linkedin.com/in/JoshuaBENON
+![](https://github-readme-stats.vercel.app/api?username=BliTz037&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BliTz037&theme=material-palenight)
+</div>
