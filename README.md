@@ -14,15 +14,12 @@
 - 🤫 Mon hobbi ? J'adore le kendo
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h3>Languages</h3>
+<h3>Langages</h3>
 <a href="#"> <img width="32px" src="https://lh3.googleusercontent.com/1NTw-mJ9bTiBiWfJ3_i22prvc3A7xvDNs4mmXSM76bqWT0-kTJ6LYDfIdgB_lWDPH_4"> </a>
 <a href="#"> <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> </a>
 <a href="#"> <img width="64px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"> </a>
 <a href="#"> <img width="32px" src="https://www.developpez.net/forums/attachments/p294178d1/a/a/a"> </a>
 <a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> </a>
-<a href="#"> <img width="32px" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png"> </a>
-<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </a>
-<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Antu_arduino-icon-small.svg/1200px-Antu_arduino-icon-small.svg.png"> </a>
 
 <h3>Other</h3>
 <a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
