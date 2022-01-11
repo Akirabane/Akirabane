@@ -21,14 +21,10 @@
 <a href="#"> <img width="32px" src= "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png"> </a>
 <a href="#"> <img width="32px" src= "https://www.carpemedia.fr/wp-content/uploads/2017/02/formation-php-initiation.png"> </a>
 
-<h3>Other</h3>
+<h3>Autre</h3>
 <a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
 <a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
 <a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
-
-<h3>Cloud-Computing</h3>
-<a href="#"> <img width="32px" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4"> </a>
-<a href="#"> <img width="32px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"> </a>
 
 <h2>Github stats</h2>
 <div align="center">
