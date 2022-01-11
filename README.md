@@ -1,20 +1,17 @@
 <p align="center">
-  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60670940?v=4">
+  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/77858565?v=4">
 </p>
 
-<h1 align="center">Hey ! I'm <a href="https://github.com/BliTz037">BliTz037</a>👋</h1>
+<h1 align="center">Hey ! I'm <a href="https://github.com/Akirabane">Akirabane</a>👋</h1>
 </br>
 
-<p>BliTz is a developper, who studies in a big school named Epitech from Paris.</p>
-<p>But he is also an A.S.T.E.K who likes to help first year epitech students to learn the C language</p>
+<p>Je suis un jeune développeur passioné d'informatique hardware et software ainsi que de réseau et développement web & divers !</p>
 
-<h2>About me</h2>
+<h2>à propos de moi !</h2>
 
-- 👨‍🎓 Third year student at Epitech
-- 👨‍🏫🔴 A.S.T.E.K
-- 🍊 I likes orange
-- 🚂 I love Thomas The Tank Engine
-- 🤫 Fun fact: My favorite driver in F1 is Lewis Hamilton
+- 👨‍🎓 étudiant en 2ème année à l'IUT de Troyes.
+- 🍊 Oukkie for life
+- 🤫 Mon hobbi ? J'adore le kendo
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h3>Languages</h3>
