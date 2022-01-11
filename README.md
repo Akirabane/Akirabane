@@ -1,6 +1,6 @@
 ### Joshua -- Akirabane [Mon CV en ligne][website] 👋 
 
-## Je suis un développeur débutant, passioné d'informatique, de réseau ainsi que de nouvelles technologies !
+## Je suis un développeur débutant, passioné d'informatique, réseau et de nouvelles technologies !
 
 - 🔭 Je porte mon intérêt sur des technologies web chaque jours !
 - 🌱 Je suis un fan de Java, JavaScript et PHP 🤣
@@ -36,19 +36,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Mes activités récentes sur GitHub </summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/20) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/23) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Mes stats sur GitHub</summary>
