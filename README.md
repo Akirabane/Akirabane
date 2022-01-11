@@ -23,12 +23,8 @@
 
 <h3>Other</h3>
 <a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
-<a href="#"> <img width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> </a>
 <a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
-<a href="#"> <img width="42px" src="https://www.logigroup.com/images/modules/react.gif"> </a>
 <a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
-<a href="#"> <img width="52px" src="https://zohowebstatic.com/sites/default/files/ogimage/zoho-logo.png"> </a>
-<a href="#"> <img width="32px" src="https://seeklogo.com/images/D/dialogflow-logo-534FF34238-seeklogo.com.png"> </a>
 
 <h3>Cloud-Computing</h3>
 <a href="#"> <img width="32px" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4"> </a>
