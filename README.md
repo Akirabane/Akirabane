@@ -5,7 +5,7 @@
 <h1 align="center">Hey ! Je suis <a href="http://193.168.146.197/cv">Akirabane</a>👋</h1>
 </br>
 
-<p>Je suis un jeune développeur passioné d'informatique hardware et software ainsi que de réseau et développement web & divers !</p>
+<p>Je suis un jeune développeur passioné d'informatique hardware et software ainsi que de réseau et développement logiciel & web !</p>
 
 <h2>à propos de moi !</h2>
 
