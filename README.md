@@ -25,6 +25,7 @@
 <a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
 <a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
 <a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
+<a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"> </a>
 
 <h2>Github stats</h2>
 <div align="center">
