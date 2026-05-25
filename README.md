@@ -64,7 +64,6 @@ J'intègre l'IA dans mon workflow comme outil d'amplification, et je me forme à
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akirabane&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akirabane&theme=tokyonight&hide_border=true)
 
 </div>
