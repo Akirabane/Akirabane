@@ -1,36 +1,86 @@
-<p align="center">
-  <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/77858565?v=4">
-</p>
-
-<h1 align="center">Hey ! Je suis <a href="http://193.168.146.197/cv">Joshua AkA Akirabane</a>👋</h1>
-</br>
-
-<p>Je suis un jeune développeur passioné d'informatique hardware et software ainsi que de réseau et développement logiciel & web !</p>
-
-<h2>à propos de moi !</h2>
-
-- 👨‍🎓 Diplômé DUT (Bac +2) à l'IUT de Troyes.
-- 👨‍🎓 Licence & Master (Bac +4/5) chez Aston Institut & SQLI.
-- 🍊 Oukkie for life
-- 🤫 Mon hobby ? J'adore le kendo
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h3>Langages</h3>
-<a href="#"> <img width="64px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"> </a>
-<a href="#"> <img width="32px" src="https://www.developpez.net/forums/attachments/p294178d1/a/a/a"> </a>
-<a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> </a>
-<a href="#"> <img width="32px" src= "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png"> </a>
-<a href="#"> <img width="32px" src= "https://www.carpemedia.fr/wp-content/uploads/2017/02/formation-php-initiation.png"> </a>
-
-<h3>Autre</h3>
-<a href="#"> <img width="42px" src="https://i1.wp.com/www.cc-lacqorthez.fr/CYBERBASE/wp-content/uploads/2020/05/logo-linux.png?fit=512%2C512&ssl=1"> </a>
-<a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
-<a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
-<a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/docker.svg"> </a>
-
-<h2>Github stats</h2>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Akirabane&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akirabane&theme=material-palenight)
+<img width="120" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77858565?v=4" />
+
+# Joshua Benon · *Akirabane*
+
+**Développeur web freelance — fondateur de [Akirabane Labs](https://akirabanelabs.fr)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-benon-620088204/)
+[![Website](https://img.shields.io/badge/akirabanelabs.fr-10b981?style=flat-square&logo=vercel&logoColor=white)](https://akirabanelabs.fr)
+[![GitHub followers](https://img.shields.io/github/followers/Akirabane?style=flat-square&color=6e7681)](https://github.com/Akirabane)
+
+</div>
+
+---
+
+## 👤 À propos
+
+Passionné d'informatique depuis toujours — hardware, software, réseau et développement web & logiciel.  
+Je conçois des sites et applications sur-mesure, rapides et orientés conversion, sous la bannière **Akirabane Labs**.  
+J'intègre l'IA dans mon workflow comme outil d'amplification, et je me forme à l'automatisation via agents (n8n).
+
+> *"Je reste maître de ce que je produis."*
+
+---
+
+## 🎓 Parcours
+
+| | |
+|---|---|
+| 🏛️ **DUT Informatique** | [IUT de Troyes](https://www.univ-reims.fr/iut-troyes/) · JavaScript, PHP |
+| 🎓 **Niveau Master** | [Aston Institut](https://www.aston-institut.com) · Java Spring / Angular |
+| 🏢 **Alternance** | [SQLI](https://www.sqli.com/fr-fr) |
+| 📚 **Autodidacte** | React, Next.js, Vite, Vue, PostgreSQL, TypeScript... |
+
+---
+
+## 🛠️ Stack
+
+**Front-end**  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Back-end**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Outils & DevOps**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akirabane&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akirabane&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎴 En dehors du code
+
+- ⚔️ **Kendo** — pratique régulière
+- 🤖 **Agents IA & automatisation** — exploration n8n, LLM orchestration
+- 🔧 **Hardware** — passionné de bidouille et d'infra
+
+---
+
+<div align="center">
+
+*Disponible pour des missions freelance — [akirabanelabs.fr](https://akirabanelabs.fr)*
+
 </div>
