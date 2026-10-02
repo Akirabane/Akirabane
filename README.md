@@ -4,7 +4,7 @@
 
 # Joshua Benon · *Akirabane*
 
-**Développeur web freelance — fondateur de [Akirabane Labs](https://jomivio.com)**
+**Développeur web freelance — Co-Fondateur et CTO de [Jomovio.com](https://jomivio.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-benon-620088204/)
 [![Website](https://img.shields.io/badge/jomivio.com-10b981?style=flat-square&logo=vercel&logoColor=white)](https://jomivio.com)
