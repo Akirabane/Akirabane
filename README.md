@@ -17,7 +17,7 @@
 ## 👤 À propos
 
 Passionné d'informatique depuis toujours — hardware, software, réseau et développement web & logiciel.  
-Je conçois des sites et applications sur-mesure, rapides et orientés conversion, sous la bannière **Akirabane Labs**.  
+Je conçois des sites et applications sur-mesure, rapides et orientés conversion, sous la bannière **Jomivio**.  
 J'intègre l'IA dans mon workflow comme outil d'amplification, et je me forme à l'automatisation via agents (n8n).
 
 > *"Je reste maître de ce que je produis."*
