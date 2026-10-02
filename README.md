@@ -4,10 +4,10 @@
 
 # Joshua Benon · *Akirabane*
 
-**Développeur web freelance — fondateur de [Akirabane Labs](https://akirabanelabs.fr)**
+**Développeur web freelance — fondateur de [Akirabane Labs](https://jomivio.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-benon-620088204/)
-[![Website](https://img.shields.io/badge/akirabanelabs.fr-10b981?style=flat-square&logo=vercel&logoColor=white)](https://akirabanelabs.fr)
+[![Website](https://img.shields.io/badge/jomivio.com-10b981?style=flat-square&logo=vercel&logoColor=white)](https://jomivio.com)
 [![GitHub followers](https://img.shields.io/github/followers/Akirabane?style=flat-square&color=6e7681)](https://github.com/Akirabane)
 
 </div>
@@ -80,6 +80,6 @@ J'intègre l'IA dans mon workflow comme outil d'amplification, et je me forme à
 
 <div align="center">
 
-*Disponible pour des missions freelance — [akirabanelabs.fr](https://akirabanelabs.fr)*
+*Disponible pour des missions freelance — [jomivio.com](https://jomivio.com)*
 
 </div>
